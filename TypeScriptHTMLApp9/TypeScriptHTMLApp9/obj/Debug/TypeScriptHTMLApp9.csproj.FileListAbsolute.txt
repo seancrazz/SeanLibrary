@@ -1,0 +1,7 @@
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\bin\TypeScriptHTMLApp1.dll.config
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\bin\TypeScriptHTMLApp1.dll
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\bin\TypeScriptHTMLApp1.pdb
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\obj\Debug\TypeScriptHTMLApp9.csprojResolveAssemblyReference.cache
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\obj\Debug\TypeScriptHTMLApp9.csproj.CoreCompileInputs.cache
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\obj\Debug\TypeScriptHTMLApp1.dll
+c:\users\seanm\source\repos\TypeScriptHTMLApp9\TypeScriptHTMLApp9\obj\Debug\TypeScriptHTMLApp1.pdb
